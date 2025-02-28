@@ -5,6 +5,8 @@
 
 <h4 align="center"> Here's my Tech-stack </h4>
 
+<br>
+
 <div align="center">
 
 <h5 align="center"> Front-end/Framework </h5>
@@ -16,14 +18,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-<br>
-
 <h5 align="center"> Design Tools </h5>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-
-<br>
 
 <h5 align="center"> Version Control </h5>
 
