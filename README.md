@@ -3,13 +3,13 @@
 
 <br>
 
-<h4 align="center"> Here's my Tech-stack </h4>
+<h3 align="center"> Tech Stack </h3>
 
 <br>
 
 <div align="center">
 
-<h5 align="center"> Front-end/Framework </h5>
+<h3 align="center"> Front-end/Framework </h3>
   
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) 
@@ -18,12 +18,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-<h5 align="center"> Design Tools </h5>
+<h3 align="center"> Design Tools </h3>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-<h5 align="center"> Version Control </h5>
+<h3 align="center"> Version Control </h3>
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
