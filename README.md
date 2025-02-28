@@ -1,4 +1,3 @@
-u# 💫 About Me:
 Smol-brain web developer ;_;
 
 
