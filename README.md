@@ -1,7 +1,13 @@
-<h1 align="center">Hi there👋, I'm Janry </h1>
+<h3 align="center">Hi there👋, I'm Janry </h3>
 <h3 align="center"> Frontend Developer with 2+ years of experience specializing in Vue.js and Nuxt.js, building scalable web
 applications focused on performance and user experience.
 </h3>
+
+<br>
+
+<h4 align="center"> Check out my portfolio! <br> 
+  https://janryyy-portfolio.vercel.app/ 
+</h4>
 
 <br>
 
@@ -31,7 +37,7 @@ applications focused on performance and user experience.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="center"> Other Tools </h3>
+<h4 align="center"> Other Tools </h4>
 
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) 
 ![Nuxt UI](https://img.shields.io/badge/Nuxt%20UI-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white) 
