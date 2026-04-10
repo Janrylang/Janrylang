@@ -16,18 +16,10 @@ applications focused on performance and user experience.
 <br>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/agno-janry/" target="blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-</a> &nbsp;
-<a href="https://www.facebook.com/PapaFrankuuu" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" />
-</a> &nbsp;
-  <a href="https://www.instagram.com/janryagno" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
-  </a> &nbsp;
-  <a href="mailto:janry2218@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/agno-janry/" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"width="40" height="40" /></a>&nbsp;
+  <a href="https://www.facebook.com/PapaFrankuuu" target="blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" /></a>&nbsp;
+  <a href="https://www.instagram.com/janryagno" target="blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" /></a>&nbsp;
+  <a href="mailto:janry2218@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" /></a>
 </div>
 
 <h4 align="center"> Technologies I use </h4>
