@@ -15,7 +15,7 @@ applications focused on performance and user experience.
 
 <br>
 
-<div style="gap: 2px;" align="center">
+<div style="flex" align="center">
 <div>
 <a href="https://www.linkedin.com/in/agno-janry/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin-right: 2px;" />
