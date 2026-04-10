@@ -21,13 +21,13 @@ applications focused on performance and user experience.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
 </a>
 <a href="https://www.facebook.com/JanryAgno" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook-original.svg" width="40" height="40" />
 </a>
 <a href="https://www.instagram.com/janryagno" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram-original.svg" width="40" height="40" />
 </a>
 <a href="mailto:janry2218@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail-original.svg" width="40" height="40" />
 </a>
 
 </div>
