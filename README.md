@@ -11,16 +11,24 @@ applications focused on performance and user experience.
 
 <br>
 
-<h4 align="center"> Visit my socials 🌐 </h4>
+<h4 align="center"> 🌐 Connect with me </h4>
 
 <br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agno-janry/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/PapaFrankuuu/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/janryagno)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janrywork@gmail.com)
+<a href="https://www.linkedin.com/in/agno-janry/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+</a>
+<a href="https://www.facebook.com/JanryAgno" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40" />
+</a>
+<a href="https://www.instagram.com/janryagno" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" />
+</a>
+<a href="mailto:janry2218@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" />
+</a>
 
 </div>
 
