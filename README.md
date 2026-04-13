@@ -31,7 +31,7 @@ applications focused on performance and user experience.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" />&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/white" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/chatgpt/white" width="40" height="40" />&nbsp;
   <img src="https://cdn.simpleicons.org/anthropic/white" width="40" height="40" />
 
 </div>
