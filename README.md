@@ -31,7 +31,7 @@ applications focused on performance and user experience.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" />&nbsp;
-  <img src="https://img.shields.io/badge/-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="40" height="40" style="filter: invert(1)" />&nbsp;
   <img src="https://cdn.simpleicons.org/anthropic/white" width="40" height="40" />
 
 </div>
