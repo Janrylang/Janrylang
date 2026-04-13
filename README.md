@@ -30,9 +30,9 @@ applications focused on performance and user experience.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://www.svgrepo.com/show/306500/anthropic.svg" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/white" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/white" width="40" height="40" />
 
 </div>
 
