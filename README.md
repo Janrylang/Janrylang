@@ -36,6 +36,8 @@ applications focused on performance and user experience.
 
 </div>
 
+<br>
+
 <h4 align="center"> 🌐 Connect with me </h4>
 
 <div align="center">
