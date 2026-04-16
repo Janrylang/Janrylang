@@ -56,19 +56,19 @@ applications focused on performance and user experience.
   <a href="https://www.linkedin.com/in/agno-janry/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" />
     <img width="12" />
-  </a>
+  </a>&nbsp;
   <a href="https://www.facebook.com/PapaFrankuuu" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40" alt="facebook" />
     <img width="12" />
-  </a>
+  </a>&nbsp;
   <a href="https://www.instagram.com/janryagno" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" alt="instagram" />
     <img width="12" />
-  </a>
+  </a>&nbsp;
   <a href="mailto:janry2218@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="gmail" />
     <img width="12" />
-  </a>
+  </a>&nbsp;
 </p>
 
 
