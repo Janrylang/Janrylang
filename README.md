@@ -53,24 +53,12 @@ applications focused on performance and user experience.
 <h4 align="center">🌐 Connect with me</h4>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/agno-janry/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" />
-  </a>
-  <img width="12" />
-
-  <a href="https://www.facebook.com/PapaFrankuuu" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40" alt="facebook" />
-  </a>
-  <img width="12" />
-
-  <a href="https://www.instagram.com/janryagno" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" alt="instagram" />
-  </a>
-  <img width="12" />
-
-  <a href="mailto:janry2218@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="gmail" />
-  </a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/agno-janry/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/PapaFrankuuu" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40" alt="facebook" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/janryagno" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" alt="instagram" /></a>&nbsp;&nbsp;
+  <a href="mailto:janry2218@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="gmail" /></a>
+</div>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=Janrylang&icon=0&color=0)](https://visitcount.itsvg.in)
