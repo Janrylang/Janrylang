@@ -13,8 +13,6 @@ applications focused on performance and user experience.
 
 <h4 align="center"> Technologies I use </h4>
 
-<br>
-
 <div align="center">
 
   <!-- Main Stack -->
@@ -39,8 +37,6 @@ applications focused on performance and user experience.
 </div>
 
 <h4 align="center"> 🌐 Connect with me </h4>
-
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/agno-janry/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="vertical-align: middle" /></a>&nbsp;
