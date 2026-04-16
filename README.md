@@ -43,10 +43,11 @@ applications focused on performance and user experience.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/white" height="40" alt="github" />
-</div>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="40" height="40" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/anthropic/white" width="40" height="40" />
-</p>
+</div>
 
 <h4 align="left">🌐 Connect with me</h4>
 
