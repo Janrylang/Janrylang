@@ -44,9 +44,10 @@ applications focused on performance and user experience.
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/white" height="40" alt="github" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="40" alt="ChatGPT" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/anthropic/white" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/anthropic/white" height="40" alt="Anthropic" />
+  <img width="12" />
 </div>
 
 <h4 align="left">🌐 Connect with me</h4>
