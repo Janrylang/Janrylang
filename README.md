@@ -14,7 +14,7 @@ applications focused on performance and user experience.
 <h4 align="center"> Technologies I use </h4>
 
 <!-- Tech Stack -->
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
@@ -22,7 +22,9 @@ applications focused on performance and user experience.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <br
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" />
@@ -30,16 +32,13 @@ applications focused on performance and user experience.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="40" height="40" style="filter: invert(1)" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/anthropic/white" width="40" height="40" />
-</div>
-
-<br>
+</p>
 
 <h4 align="center">🌐 Connect with me</h4>
 
-<!-- Social Links -->
-<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: nowrap;">
+<p align="center">
   <a href="https://www.linkedin.com/in/agno-janry/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
@@ -52,7 +51,7 @@ applications focused on performance and user experience.
   <a href="mailto:janry2218@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
   </a>
-</div>
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=Janrylang&icon=0&color=0)](https://visitcount.itsvg.in)
 
