@@ -1,17 +1,17 @@
-<h2 align="left">Hi there👋, I'm Janry </h2>
-<h3 align="left"> Frontend Developer with 2+ years of experience specializing in Vue.js and Nuxt.js, building scalable web
+<h2 align="center">Hi there👋, I'm Janry </h2>
+<h3 align="center"> Frontend Developer with 2+ years of experience specializing in Vue.js and Nuxt.js, building scalable web
 applications focused on performance and user experience.
 </h3>
 
 <br>
 
-<h4 align="left"> Check out my portfolio! <br> 
+<h4 align="center"> Check out my portfolio! <br> 
   https://janryyy-portfolio.vercel.app/ 
 </h4>
 
 <br>
 
-<h4 align="left"> Technologies I use </h4>
+<h4 align="center"> Technologies I use </h4>
 
 <!-- Tech Stack -->
 <div align="center">
@@ -50,20 +50,24 @@ applications focused on performance and user experience.
   <img width="12" />
 </div>
 
-<h4 align="left">🌐 Connect with me</h4>
+<h4 align="center">🌐 Connect with me</h4>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/agno-janry/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" />
+    <img width="12" />
   </a>
   <a href="https://www.facebook.com/PapaFrankuuu" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40" alt="facebook" />
+    <img width="12" />
   </a>
   <a href="https://www.instagram.com/janryagno" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" alt="instagram" />
+    <img width="12" />
   </a>
   <a href="mailto:janry2218@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="gmail" />
+    <img width="12" />
   </a>
 </p>
 
